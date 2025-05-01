@@ -1,6 +1,7 @@
 # CirnoPlugin
-Adds cirno fumo to CloverPit using CustomPowerupAPI
+Adds cirno fumo to CloverPit using CustomPowerupAPI.
 
+The charm increases the base value of 7s to 9.
 
 ## Requirements
 
